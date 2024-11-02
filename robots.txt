@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecofoaha.github.io/CJQ/sitemap_index.txt
+Sitemap: https://ecofoaha.github.io/GVT/sitemap_index.txt
+Sitemap: https://ecofoaha.github.io/Zwe/sitemap_index.txt
+Sitemap: https://ecofoaha.github.io/sZT/sitemap_index.txt
